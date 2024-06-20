@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+ul,li,ol {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+::before , ::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+:focus, :active {
+    outline: none;
+}
+
+.conatiner {
+    width: 100%;
+}
+/* All common Css */
+
+/* ===================
+    1st section Starts here
+======================= */
+
+
+
+
+/* ===================
+    1st section Ends here
+======================= */
+
+
+/* ===================
+    2nd section Starts here
+======================= */
+
+
+
+
+/* ===================
+    2nd section Ends here
+======================= */
+
+
+/* ===================
+    3rd section Starts here
+======================= */
+
+
+
+
+/* ===================
+    3rd section Ends here
+======================= */
+
+
+/* ===================
+    4th section Starts here
+======================= */
+
+
+
+
+/* ===================
+    4th section Ends here
+======================= */
+
+
+/* ===================
+    5th section Starts here
+======================= */
+
+
+
+
+/* ===================
+    5th section Ends here
+======================= */
+
+
